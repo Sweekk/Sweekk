@@ -79,6 +79,6 @@ Unity · MERN Stack · Flutter
 
 ---
 
-<p align="center">
-  <sub>📫 Reach me at <a href="mailto:sweekarshetty06@gmail.com">sweekarshetty06@gmail.com</a></sub>
-</p>
+<h4 align="center">
+  <p>📫 Reach me at <a href="mailto:sweekarshetty06@gmail.com">sweekarshetty06@gmail.com</a></p>
+</h4>
