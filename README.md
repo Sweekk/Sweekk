@@ -1,25 +1,25 @@
 <h1 align="center">Hey, I'm Sweekar Shetty 👋</h1>
 
 <p align="center">
-  Pixel art enthusiast · Game developer in the making · Full-stack explorer
+    Pixel art enthusiast · Game developer in the making · Full-stack explorer
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sweekar-shetty-1a4255335/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/sweek06_">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/sweekarshetty06">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black" />
-  </a>
-  <a href="https://discord.gg/724484428834799627">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:sweekarshetty06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
+    <a href="https://www.linkedin.com/in/sweekar-shetty-1a4255335/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://twitter.com/sweek06_">
+        <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" />
+    </a>
+    <a href="https://www.hackerrank.com/sweekarshetty06">
+        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black" />
+    </a>
+    <a href="https://discord.gg/724484428834799627">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+    </a>
+    <a href="mailto:sweekarshetty06@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+    </a>
 </p>
 
 ---
@@ -73,12 +73,14 @@ Unity · MERN Stack · Flutter
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweekk&layout=compact&hide_border=true&theme=default" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweekk&hide_border=true&theme=default" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweekk&layout=compact&hide_border=true&theme=default"
+        height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweekk&hide_border=true&theme=default"
+        height="150" />
 </p>
 
 ---
 
 <h4 align="center">
-  <p>📫 Reach me at <a href="mailto:sweekarshetty06@gmail.com">sweekarshetty06@gmail.com</a></p>
+    <p>📫 Reach me at <a href="mailto:sweekarshetty06@gmail.com">sweekarshetty06@gmail.com</a></p>
 </h4>
