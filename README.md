@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+🤖;Machine+Learning+Enthusiast+🧠;Full-Stack+Explorer+💻" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Machine+Learning+Enthusiast;Full-Stack+Explorer" alt="Typing SVG" />
     </a>
 </p>
 
@@ -74,9 +74,9 @@ Python · Machine Learning · Generative AI · MERN Stack
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweekk&layout=compact&hide_border=true&theme=default"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sweekk&layout=compact&hide_border=true&theme=transparent"
         height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweekk&hide_border=true&theme=default"
+    <img src="https://streak-stats.demolab.com/?user=Sweekk&hide_border=true&theme=transparent"
         height="150" />
 </p>
 
