@@ -1,7 +1,9 @@
-<h1 align="center">Hey, I'm Sweekar Shetty 👋</h1>
+<h1 align="center">Hey, I'm Sweekar Shetty <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></h1>
 
 <p align="center">
-    Pixel art enthusiast · Game developer in the making · Full-stack explorer
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer+🤖;Machine+Learning+Enthusiast+🧠;Full-Stack+Explorer+💻" alt="Typing SVG" />
+    </a>
 </p>
 
 <p align="center">
@@ -25,16 +27,16 @@
 ---
 
 ### 🔭 Currently Building
-[**Hire-Ready AI**](https://github.com/Sweekk/HireReady-AI) — an AI-powered interview preparation assistant
+[**HireReady-AI**](https://github.com/Sweekk/HireReady-AI) — an AI-powered interview preparation assistant
 
 ### 🌱 Currently Learning
-Unity · MERN Stack · Flutter
+Python · Machine Learning · Generative AI · MERN Stack
 
 ### 💬 About Me
-- Focused on **pixel art** and **game development**
-- Building full-stack projects with the MERN stack
-- Exploring mobile development with Flutter
-- Always sculpting and levelling up my skills
+- 🎓 2nd-year Computer Science and Engineering student
+- 🤖 Focused on building intelligent systems and practical machine learning solutions
+- 💻 Exploring full-stack development to integrate AI into seamless, scalable web applications
+- 🌱 Always researching, learning, and shipping code
 
 ---
 
@@ -42,8 +44,8 @@ Unity · MERN Stack · Flutter
 
 **Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -63,7 +65,6 @@ Unity · MERN Stack · Flutter
 
 **Tools & Platforms**
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
