@@ -73,10 +73,17 @@ Python · Machine Learning · Generative AI · MERN Stack
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sweekk&layout=compact&hide_border=true&theme=transparent&v=1"
         height="150" />
     <img src="https://streak-stats.demolab.com/?user=Sweekk&hide_border=true&theme=transparent"
         height="150" />
 </p>
+
+---
+
+<h4 align="center">
+    <p>📫 Reach me at <a href="mailto:sweekarshetty06@gmail.com">sweekarshetty06@gmail.com</a></p>
 </h4>
